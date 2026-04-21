@@ -1,0 +1,5 @@
+# Cursor / agent transcripts (local only)
+.specstory/
+
+# OS
+.DS_Store
