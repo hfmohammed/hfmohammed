@@ -6,6 +6,7 @@
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-hassanm.ca-302b63?style=for-the-badge)](https://hassanm.ca)
 [![LinkedIn](assets/linkedin-badge.svg)](https://www.linkedin.com/in/hfmohammed)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hfmohammed)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hfmohammed@ualberta.ca)
