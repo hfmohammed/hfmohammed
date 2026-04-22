@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hassan%20Mohammed&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%40%20CGI%20%7C%20University%20of%20Alberta%20%7C%20Edmonton%2C%20AB&descAlignY=58&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hassan%20Mohammed&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Incoming%20%40%20CGI%20%7C%20University%20of%20Alberta%20%7C%20Edmonton%2C%20AB&descAlignY=58&descSize=18&animation=fadeIn" />
 
 </div>
 
@@ -19,7 +19,7 @@
 
 I'm a fourth-year **Computing Science Honours** student at the **University of Alberta** who loves building software. I care about code that actually ships and holds up in the real world.
 
-- 🏢 **Incoming Full Stack Developer Co-op** @ **CGI Inc.** _(May 2026)_
+- 🏢 **Incoming Full Stack Developer Intern** @ **CGI Inc.** _(May 2026)_
 - 🔬 **Undergraduate Research Assistant** @ UAlberta: automated data-quality pipelines & benchmarked pose-estimation models
 - 🧪 **Software Engineer in Test Intern** @ **Scale AI**: lifted AI agent success rates ~30% through tighter task specs
 - 🏆 **HackED 2025 Hardware Challenge Winner**: _FireGuard_, real-time fire detection & classification on a Raspberry Pi
