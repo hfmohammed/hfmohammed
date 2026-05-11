@@ -19,7 +19,7 @@
 
 I'm a fourth-year **Computing Science Honours** student at the **University of Alberta** who loves building software. I care about code that actually ships and holds up in the real world.
 
-- 🏢 **Full Stack Developer Intern** @ **CGI Inc.** _(May 2026)_: Building internal web applications using Blazor and .NET, contributing to full-stack feature development within an enterprise environment.
+- 🏢 **Full Stack Developer Intern** @ **CGI Inc.**: Building internal web applications using Blazor and .NET, contributing to full-stack feature development within an enterprise environment.
 - 🔬 **Undergraduate Research Assistant** @ UAlberta: automated data-quality pipelines & benchmarked pose-estimation models
 - 🧪 **Software Engineer in Test Intern** @ **Scale AI**: lifted AI agent success rates ~30% through tighter task specs
 - 🏆 **HackED 2025 Hardware Challenge Winner**: _FireGuard_, real-time fire detection & classification on a Raspberry Pi
