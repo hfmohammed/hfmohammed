@@ -101,6 +101,25 @@ I'm a fourth-year **Computing Science Honours** student at the **University of A
   <tbody>
 
   <tr>
+    <td><a href="https://github.com/hfmohammed/FraudFlow"><b>🕵️ FraudFlow</b></a></td>
+    <td>
+      <img alt="Kafka" src="https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+      <img alt="PySpark" src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+      <img alt="Delta Lake" src="https://img.shields.io/badge/Delta%20Lake-00ADD8?style=for-the-badge"/>
+      <img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+      <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+      <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+    </td>
+    <td>
+      <ul>
+        <li><b>PySpark Structured Streaming</b> + <b>Delta Lake</b> medallion (bronze/silver/gold), fraud signals end to end in under <b>60 seconds</b> with exactly-once guarantees</li>
+        <li><b>confluent-kafka</b> producer sustaining <b>1,000 tx/min</b> with <b>zero message loss</b>, tracked via a live Prometheus counter</li>
+        <li>Gold-layer scoring (velocity, z-score, geo) at a 0.70 threshold; portable across Docker and Databricks Free Edition</li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
     <td><a href="https://github.com/hfmohammed/HackED2025-byte-of-87"><b>🔥 FireGuard</b></a></td>
     <td>
       <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
