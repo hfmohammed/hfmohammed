@@ -19,9 +19,9 @@
 
 I'm a fourth-year **Computing Science Honours** student at the **University of Alberta** who loves building software. I care about code that actually ships and holds up in the real world.
 
-- 🏢 **Full Stack Developer Intern** @ **CGI Inc.**: Building internal web applications using Blazor and .NET, contributing to full-stack feature development within an enterprise environment.
-- 🔬 **Undergraduate Research Assistant** @ UAlberta: automated data-quality pipelines & benchmarked pose-estimation models
-- 🧪 **Software Engineer in Test Intern** @ **Scale AI**: lifted AI agent success rates ~30% through tighter task specs
+- 🏢 **Full Stack Developer Intern** @ **CGI Inc.** _(May 2026 – Present)_: cut regression testing time **80%** at **~90%** coverage on a government platform serving **2M+ workers** with a **150+ test** Playwright/NUnit suite across **21 user roles** in Azure DevOps CI/CD; resolved **20+ production-blocking bugs** and redesigned **10+ REST** endpoints
+- 🔬 **Undergraduate Research Assistant** @ UAlberta _(May 2025 – Aug 2025)_: automated **90%+** of pose-estimation evaluation for a **6-model** benchmarking study and built the 3D mesh/joint visualization tool the team used to validate markerless tracking
+- 🧪 **Software Engineer Intern** @ **Outlier AI (Scale AI)** _(Jan 2025 – Apr 2025)_: analyzed **300+** pull requests and redesigned **500+** task specs & validation suites, lifting AI agent task-completion **~30%**
 - 🏆 **HackED 2025 Hardware Challenge Winner**: _FireGuard_, real-time fire detection & classification on a Raspberry Pi
 - 📚 Currently studying: OOP · DSA · Software Engineering · Databases · Operating Systems · Machine Learning
 
@@ -112,9 +112,9 @@ I'm a fourth-year **Computing Science Honours** student at the **University of A
     </td>
     <td>
       <ul>
-        <li><b>PySpark Structured Streaming</b> + <b>Delta Lake</b> medallion (bronze/silver/gold), fraud signals end to end in under <b>60 seconds</b> with exactly-once guarantees</li>
-        <li><b>confluent-kafka</b> producer sustaining <b>1,000 tx/min</b> with <b>zero message loss</b>, tracked via a live Prometheus counter</li>
-        <li>Gold-layer scoring (velocity, z-score, geo) at a 0.70 threshold; portable across Docker and Databricks Free Edition</li>
+        <li><b>PySpark Structured Streaming</b> over a bronze/silver/gold <b>Delta Lake</b> medallion architecture, fraud signals end to end in under <b>60 seconds</b> with <b>exactly-once</b> processing</li>
+        <li><b>confluent-kafka</b> producer with LZ4 compression and card-keyed partitioning sustaining <b>1K–50K tx/min</b> with <b>zero message loss</b>, verified via <b>Prometheus</b> and <b>Grafana</b></li>
+        <li>Composite velocity / z-score / geo-anomaly scoring surfacing <b>261 fraud alerts</b> across <b>50K transactions</b> on Databricks, published to a downstream Kafka topic in real time</li>
       </ul>
     </td>
   </tr>
