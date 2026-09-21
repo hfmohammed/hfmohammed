@@ -19,7 +19,9 @@
 
 I'm a fourth-year **Computing Science Honours** student at the **University of Alberta** who loves building software. I care about code that actually ships and holds up in the real world.
 
-- 🏢 **Full Stack Developer Intern** @ **CGI Inc.** _(May 2026 – Present)_: cut regression testing time **80%** at **~90%** coverage on a government platform serving **2M+ workers** with a **150+ test** Playwright/NUnit suite across **21 user roles** in Azure DevOps CI/CD; resolved **20+ production-blocking bugs** and redesigned **10+ REST** endpoints
+
+- 🧑‍🏫 **Teaching Assistant** @ **University of Alberta** _(Sep 2026 – Present)_: support **CMPUT 455: Search, Knowledge, and Simulation**, help students with search algorithms, game-playing AI, and Monte Carlo methods, and grade assignments
+- 🏢 **Full Stack Developer Intern** @ **CGI Inc.** _(May 2026 – Aug 2026)_: cut regression testing time **80%** at **~90%** coverage on a government platform serving **2M+ workers** with a **150+ test** Playwright/NUnit suite across **21 user roles** in Azure DevOps CI/CD; resolved **20+ production-blocking bugs** and redesigned **10+ REST** endpoints
 - 🔬 **Undergraduate Research Assistant** @ UAlberta _(May 2025 – Aug 2025)_: automated **90%+** of pose-estimation evaluation for a **6-model** benchmarking study and built the 3D mesh/joint visualization tool the team used to validate markerless tracking
 - 🧪 **Software Engineer Intern** @ **Outlier AI (Scale AI)** _(Jan 2025 – Apr 2025)_: analyzed **300+** pull requests and redesigned **500+** task specs & validation suites, lifting AI agent task-completion **~30%**
 - 🏆 **HackED 2025 Hardware Challenge Winner**: _FireGuard_, real-time fire detection & classification on a Raspberry Pi
