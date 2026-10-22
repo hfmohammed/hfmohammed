@@ -103,37 +103,36 @@ I'm a fourth-year **Computing Science Honours** student at the **University of A
   <tbody>
 
   <tr>
-    <td><a href="https://github.com/hfmohammed/FraudFlow"><b>🕵️ FraudFlow</b></a></td>
+    <td><a href="https://github.com/hfmohammed/AtlasAgent"><b>🗺️ AtlasAgent</b></a></td>
     <td>
-      <img alt="Kafka" src="https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-      <img alt="PySpark" src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-      <img alt="Delta Lake" src="https://img.shields.io/badge/Delta%20Lake-00ADD8?style=for-the-badge"/>
-      <img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
-      <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-      <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+      <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+      <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+      <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+      <img alt="PostgreSQL" src="https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+      <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
     </td>
     <td>
       <ul>
-        <li><b>PySpark Structured Streaming</b> over a bronze/silver/gold <b>Delta Lake</b> medallion architecture, fraud signals end to end in under <b>60 seconds</b> with <b>exactly-once</b> processing</li>
-        <li><b>confluent-kafka</b> producer with LZ4 compression and card-keyed partitioning sustaining <b>1K–50K tx/min</b> with <b>zero message loss</b>, verified via <b>Prometheus</b> and <b>Grafana</b></li>
-        <li>Composite velocity / z-score / geo-anomaly scoring surfacing <b>261 fraud alerts</b> across <b>50K transactions</b> on Databricks, published to a downstream Kafka topic in real time</li>
+        <li>Enterprise RAG assistant achieving <b>94% Recall@5</b> and <b>100% irrelevant-query rejection</b> on a deterministic 55-case evaluation suite</li>
+        <li>Grounded answers with ranked citations, source excerpts, retrieval scores, and structured audit logs</li>
+        <li>Approval-gated agent tools blocked <b>every unauthorized write</b> in automated tests, with <b>92%+ backend coverage</b></li>
       </ul>
     </td>
   </tr>
 
   <tr>
-    <td><a href="https://github.com/hfmohammed/HackED2025-byte-of-87"><b>🔥 FireGuard</b></a></td>
+    <td><a href="https://github.com/hfmohammed/infraguard"><b>🛡️ InfraGuard</b></a></td>
     <td>
       <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-      <img alt="YOLOv8" src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logoColor=black"/>
-      <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
+      <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+      <img alt="Terraform" src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+      <img alt="OPA" src="https://img.shields.io/badge/OPA%2FRego-7D9199?style=for-the-badge&logo=openpolicyagent&logoColor=white"/>
     </td>
     <td>
       <ul>
-        <li>🥇 <b>HackED 2025 Hardware Challenge Winner</b></li>
-        <li>Detects & classifies fires in real time on edge hardware</li>
-        <li>Servo motor scanning + YOLOv8 model trained on Roboflow dataset</li>
-        <li>Delivers voice-guided safety instructions via speaker</li>
+        <li>Policy-as-code validation for Kubernetes manifests and Terraform plans across <b>21 controls</b>, with <b>100% precision and recall</b> on seeded fixtures</li>
+        <li><b>153 unit tests</b> and <b>12 live Kubernetes integration tests</b> running in CI through ephemeral kind clusters</li>
+        <li>Six read-only MCP inspection tools plus human-approved remediation guarded by schema checks, policy validation, and dry-runs</li>
       </ul>
     </td>
   </tr>
@@ -154,6 +153,59 @@ I'm a fourth-year **Computing Science Honours** student at the **University of A
         <li><b>Full-stack</b> hyperlocal commerce platform (<b>~70k LOC</b>) across three client surfaces: <b>50+ REST</b> APIs, <b>PostGIS</b> proximity search, tiered location fallback, and tuning for high-volume, low-latency product lookup</li>
         <li>Async bulk-ingestion pipeline (<b>Celery + Redis</b>) so retailers upload <b>thousands</b> of products at once with <b>AI-assisted</b> field mapping and <b>live progress</b> (polling) without blocking the main request thread</li>
         <li><b>921-test</b> regression suite (<b>595</b> backend + <b>326</b> frontend) in CI/CD: runs on every merge, <b>builds the Android APK</b>, and deploys to the <b>live production</b> server, a Dockerized workflow end to end</li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/hfmohammed/FraudFlow"><b>🕵️ FraudFlow</b></a></td>
+    <td>
+      <img alt="Kafka" src="https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+      <img alt="PySpark" src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+      <img alt="Delta Lake" src="https://img.shields.io/badge/Delta%20Lake-00ADD8?style=for-the-badge"/>
+      <img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+      <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+      <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+    </td>
+    <td>
+      <ul>
+        <li><b>PySpark Structured Streaming</b> over a bronze/silver/gold <b>Delta Lake</b> medallion architecture, fraud signals end to end in under <b>60 seconds</b> with <b>exactly-once</b> processing</li>
+        <li><b>confluent-kafka</b> producer with LZ4 compression and card-keyed partitioning sustaining <b>1K–50K tx/min</b> with <b>zero message loss</b>, verified via <b>Prometheus</b> and <b>Grafana</b></li>
+        <li>Composite velocity / z-score / geo-anomaly scoring surfacing <b>261 fraud alerts</b> across <b>50K transactions</b> on Databricks, published to a downstream Kafka topic in real time</li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/hfmohammed/StreamMirror"><b>🪞 StreamMirror</b></a></td>
+    <td>
+      <img alt="Debezium" src="https://img.shields.io/badge/Debezium-000000?style=for-the-badge"/>
+      <img alt="Kafka" src="https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+      <img alt="PySpark" src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+      <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    </td>
+    <td>
+      <ul>
+        <li>Change-data-capture pipeline replicating PostgreSQL into Delta Lake through Debezium, Kafka, and PySpark Structured Streaming</li>
+        <li>Verified <b>zero loss and zero duplication</b> across 804 changes using LSN-guarded merges and a SIGKILL recovery drill</li>
+        <li>Handled live schema changes with zero downtime and locked behavior into an 11-case pytest suite running in GitHub Actions</li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/hfmohammed/HackED2025-byte-of-87"><b>🔥 FireGuard</b></a></td>
+    <td>
+      <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+      <img alt="YOLOv8" src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logoColor=black"/>
+      <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
+    </td>
+    <td>
+      <ul>
+        <li>🥇 <b>HackED 2025 Hardware Challenge Winner</b></li>
+        <li>Detects & classifies fires in real time on edge hardware</li>
+        <li>Servo motor scanning + YOLOv8 model trained on Roboflow dataset</li>
+        <li>Delivers voice-guided safety instructions via speaker</li>
       </ul>
     </td>
   </tr>
@@ -238,20 +290,6 @@ I'm a fourth-year **Computing Science Honours** student at the **University of A
   </tr>
 
   <tr>
-    <td><a href="https://github.com/hfmohammed/chatbuddy"><b>💬 ChatBuddy</b></a></td>
-    <td>
-      <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-      <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-    </td>
-    <td>
-      <ul>
-        <li>LLM chat interface with Firebase auth</li>
-        <li>Real-time session management</li>
-      </ul>
-    </td>
-  </tr>
-
-  <tr>
     <td><a href="https://github.com/hfmohammed/zenith-events"><b>📅 Zenith Events</b></a></td>
     <td>
       <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -262,22 +300,6 @@ I'm a fourth-year **Computing Science Honours** student at the **University of A
       <ul>
         <li>Android event management app built by a team of 6</li>
         <li>Full event lifecycle: creation, registration, and attendee management</li>
-      </ul>
-    </td>
-  </tr>
-
-  <tr>
-    <td><a href="https://github.com/hfmohammed/murmur"><b>🐦 Murmur</b></a></td>
-    <td>
-      <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-      <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-      <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-    </td>
-    <td>
-      <ul>
-        <li>Twitter clone built with Flask and SQLite</li>
-        <li>Full auth, tweets, retweets, replies, follows, and follower feeds</li>
-        <li>Responsive UI with flash notifications</li>
       </ul>
     </td>
   </tr>
