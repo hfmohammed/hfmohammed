@@ -278,16 +278,17 @@ I'm a fourth-year **Computing Science Honours** student at the **University of A
   </tr>
 
   <tr>
-    <td><a href="https://github.com/hfmohammed/mini-shell"><b>⚙️ Gazprea Compiler</b></a></td>
+    <td><a href="https://github.com/hfmohammed/compiler"><b>⚙️ Gazprea Compiler</b></a></td>
     <td>
       <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-      <img alt="x86-64" src="https://img.shields.io/badge/x86--64_ASM-555555?style=for-the-badge"/>
+      <img alt="ANTLR" src="https://img.shields.io/badge/ANTLR%204.13-D62F2F?style=for-the-badge"/>
+      <img alt="LLVM" src="https://img.shields.io/badge/MLIR%20%2F%20LLVM-262D3A?style=for-the-badge&logo=llvm&logoColor=white"/>
     </td>
     <td>
       <ul>
-        <li>Full compiler pipeline: lexing → parsing → AST → codegen</li>
-        <li>Emits x86-64 assembly with scoped variables & structured control flow</li>
-        <li>Two-pass code generation for accurate stack sizing</li>
+        <li>Native-code compiler for the Gazprea language: <b>ANTLR 4.13.2</b> frontend, typed AST, semantic checks, multi-dialect <b>MLIR</b>, LLVM lowering and the <b>-O2</b> pipeline</li>
+        <li>Tuples, scoped type aliases, compile-time globals, and by-reference parameters with aliasing checks</li>
+        <li>Verified by <b>240 executable test programs</b>, including 147 compile-error cases</li>
       </ul>
     </td>
   </tr>
