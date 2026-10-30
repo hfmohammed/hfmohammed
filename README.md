@@ -121,6 +121,25 @@ I'm a fourth-year **Computing Science Honours** student at the **University of A
   </tr>
 
   <tr>
+    <td>
+      <a href="https://github.com/hfmohammed/aethercompute"><b>⚡ AetherCompute</b></a><br/>
+      <a href="https://github.com/hfmohammed/aethercompute"><img src="assets/aethercompute.png" alt="AetherCompute: heat diffusion, 100K particles and N-body rendered from GPU buffers" width="260"/></a>
+    </td>
+    <td>
+      <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+      <img alt="WebGPU" src="https://img.shields.io/badge/wgpu%20%2F%20WGSL-005A9C?style=for-the-badge&logo=webgpu&logoColor=white"/>
+      <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+    </td>
+    <td>
+      <ul>
+        <li>GPU-accelerated scientific computing engine running particle dynamics, all-pairs N-body, and 2D heat diffusion on <b>scalar CPU, Rayon, and wgpu/Metal</b> backends</li>
+        <li>Every benchmark row validated against a CPU reference (<b>max abs error under 5e-7</b>) before it is timed</li>
+        <li>Reproducible harness with GPU timestamp queries, shuffled run order, bootstrap CIs, and a regression-comparison CLI, backed by <b>136 tests</b></li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
     <td><a href="https://github.com/hfmohammed/infraguard"><b>🛡️ InfraGuard</b></a></td>
     <td>
       <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
